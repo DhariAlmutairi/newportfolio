@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/sadaroastery/static/js/main.d0b1e98e.js",
+    "main.js": "/sadaroastery/static/js/main.1d3f0354.js",
     "index.html": "/sadaroastery/index.html",
-    "main.d0b1e98e.js.map": "/sadaroastery/static/js/main.d0b1e98e.js.map"
+    "main.1d3f0354.js.map": "/sadaroastery/static/js/main.1d3f0354.js.map"
   },
   "entrypoints": [
-    "static/js/main.d0b1e98e.js"
+    "static/js/main.1d3f0354.js"
   ]
 }
