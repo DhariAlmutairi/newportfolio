@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sadaroastery/static/css/main.bfc0e672.css",
+    "main.js": "/sadaroastery/static/js/main.c3a87fb8.js",
+    "static/js/453.b7292746.chunk.js": "/sadaroastery/static/js/453.b7292746.chunk.js",
+    "static/media/boxsadaplus.jpg": "/sadaroastery/static/media/boxsadaplus.1f3caaeed338620fc2d8.jpg",
+    "static/media/boxsada.jpg": "/sadaroastery/static/media/boxsada.ae3a7efeed438c551b6e.jpg",
+    "static/media/sadapluscups.jpg": "/sadaroastery/static/media/sadapluscups.b732b8ef68aac587fefe.jpg",
+    "static/media/salvador.jpg": "/sadaroastery/static/media/salvador.e5e70f07383962d30cd8.jpg",
+    "static/media/colombie.jpg": "/sadaroastery/static/media/colombie.ba2b376983f94fb7f9b5.jpg",
+    "static/media/ethio.jpg": "/sadaroastery/static/media/ethio.68c1fd0f96f684ad664c.jpg",
+    "static/media/sadacups.jpg": "/sadaroastery/static/media/sadacups.858b27c4e88205d38db5.jpg",
+    "index.html": "/sadaroastery/index.html",
+    "main.bfc0e672.css.map": "/sadaroastery/static/css/main.bfc0e672.css.map",
+    "main.c3a87fb8.js.map": "/sadaroastery/static/js/main.c3a87fb8.js.map",
+    "453.b7292746.chunk.js.map": "/sadaroastery/static/js/453.b7292746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc0e672.css",
+    "static/js/main.c3a87fb8.js"
+  ]
+}
